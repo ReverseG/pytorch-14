@@ -1,3 +1,1 @@
-test origin
-
-origin
+default origin 
